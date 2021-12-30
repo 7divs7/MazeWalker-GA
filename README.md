@@ -7,7 +7,7 @@
 Genetic Algorithm implemented to create bots in Unity 3D that learn how to traverse through randomly generated maze.
 
 ## Instructions
-Open up a new Unity project and import the package file (GOAP-BasicWorkingHospital.unitypackage).
+Open up a new Unity project and import the package file (MazeWalker-GA.unitypackage).
 
 ## Simulation
 ![Alt Text](https://github.com/7divs7/MazeWalker-GA/blob/main/mazeWalk.gif)
